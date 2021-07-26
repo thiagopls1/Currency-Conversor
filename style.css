@@ -1,0 +1,43 @@
+html{
+    min-height: 100%;
+}
+body{
+    background: linear-gradient(rgb(173, 214, 252) 10%, rgb(245, 141, 240) 50%, rgb(196, 82, 184) 92%);
+    color: rgb(0, 0, 0);
+    font: normal 12pt arial;
+    text-align: center;
+}
+
+header{
+    font: normal 15pt arial;
+    text-align: center;
+}
+
+section{
+    background: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    padding: 15px;
+    width: 599px;
+    color: rgba(0, 0, 0, 1);
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    text-align: center;
+}
+
+footer{
+    font-style: italic;
+}
+img{
+    border: 6px solid rgb(75, 75, 75);
+    border-radius: 100%;
+}
+
+.txt{
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.button{
+    width: 140px;
+    height: 30px;
+}
